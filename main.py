@@ -15,7 +15,7 @@ async def main(args):
     payload = {
         "org": args.org,
         "repo_limit": args.repo_limit,
-        "output_path": args.output_path,
+        "output_file": args.output_path,
     }
 
     print("Starting workflow with payload:", json.dumps(payload))
@@ -28,6 +28,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--org", default="google", help="Github org")
     parser.add_argument("--repo_limit", default=5, type=int, help="How many repos to enrich")
-    parser.add_argument("--output_path", default="atlan_payload.json", help="Where to write payloads")
+    parser.add_argument("--output_file", default="atlan_payload.json", help="Where to write payloads")
     args = parser.parse_args()
     asyncio.run(main(args))

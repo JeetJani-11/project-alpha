@@ -152,7 +152,7 @@ class GithubActivities(ActivitiesInterface):
                 payloads.append(repo_payload)
 
             out_payloads = payloads + commit_entity_payloads
-            out_path = workflow_args.get("output_path", "atlan_payload.json")
+            out_path = workflow_args.get("output_file", "atlan_payload.json")
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump(out_payloads, f, indent=2)
             return {"success": True, "saved_to": out_path, "count": len(out_payloads)}

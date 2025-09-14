@@ -27,7 +27,7 @@ class GithubIngestWorkflow(WorkflowInterface[GithubActivities]):
         config = {
             "org": workflow_args.get("org", "google"),
             "repo_limit": workflow_args.get("repo_limit", 5),
-            "output_path": workflow_args.get("output_path", "atlan_payload.json"),
+            "output_path": workflow_args.get("output_file", "atlan_payload.json"),
         }
 
         tq = info.task_queue
@@ -61,7 +61,7 @@ class GithubIngestWorkflow(WorkflowInterface[GithubActivities]):
             {
                 "repos": repos_list,
                 "commits_map": commits_map,
-                "output_path": config["output_path"],
+                "output_path": config["output_file"],
             },
             start_to_close_timeout=timedelta(seconds=60),
             task_queue=tq,
