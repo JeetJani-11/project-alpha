@@ -61,7 +61,7 @@ class GithubIngestWorkflow(WorkflowInterface[GithubActivities]):
             {
                 "repos": repos_list,
                 "commits_map": commits_map,
-                "output_path": config["output_file"],
+                "output_path": config["output_path"],
             },
             start_to_close_timeout=timedelta(seconds=60),
             task_queue=tq,

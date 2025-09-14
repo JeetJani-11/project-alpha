@@ -15,7 +15,7 @@ async def main(args):
     payload = {
         "org": args.org,
         "repo_limit": args.repo_limit,
-        "output_file": args.output_path,
+        "output_file": args.output_file,
     }
 
     print("Starting workflow with payload:", json.dumps(payload))
