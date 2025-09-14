@@ -1,0 +1,897 @@
+[
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "truth",
+      "qualifiedName": "github://google/truth",
+      "description": "Fluent assertions for Java and Android",
+      "url": "https://github.com/google/truth"
+    },
+    "customAttributes": {
+      "stars": 2773,
+      "language": "Java",
+      "forks": 267,
+      "watchers": 2773
+    },
+    "relationshipAttributes": {
+      "latestCommits": [
+        "github://google/truth/commit/e1349366f32a21431a667d901e838065073fcd33",
+        "github://google/truth/commit/e25f2e2cc826b49e671c375b09c30496130e71da",
+        "github://google/truth/commit/47d58a9257138867299863da544458d85ec19371",
+        "github://google/truth/commit/24b5a310fd899b5554ded8287f33c826f5d7778b",
+        "github://google/truth/commit/7261f72093756a8abcc96882e49273b9b6a063be"
+      ]
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "ruby-openid-apps-discovery",
+      "qualifiedName": "github://google/ruby-openid-apps-discovery",
+      "description": null,
+      "url": "https://github.com/google/ruby-openid-apps-discovery"
+    },
+    "customAttributes": {
+      "stars": 38,
+      "language": "Ruby",
+      "forks": 23,
+      "watchers": 38
+    },
+    "relationshipAttributes": {
+      "latestCommits": [
+        "github://google/ruby-openid-apps-discovery/commit/4e8fbaad8903567c9ca2975adf98ee6657e7ece7",
+        "github://google/ruby-openid-apps-discovery/commit/72f172247adec624c6b1ee5ffc8e3006d5eb3c8d",
+        "github://google/ruby-openid-apps-discovery/commit/d2909a200affe2200dcb0d73ad41812cb5c33255",
+        "github://google/ruby-openid-apps-discovery/commit/48adecc7e5a6022f45affe2e9ccc0b7d820fd118",
+        "github://google/ruby-openid-apps-discovery/commit/d5452e0194a650290f9531fef654669a280d5b2c"
+      ]
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "autoparse",
+      "qualifiedName": "github://google/autoparse",
+      "description": "A dynamically generated parsing system using JSON Schema.",
+      "url": "https://github.com/google/autoparse"
+    },
+    "customAttributes": {
+      "stars": 145,
+      "language": "Ruby",
+      "forks": 33,
+      "watchers": 145
+    },
+    "relationshipAttributes": {
+      "latestCommits": [
+        "github://google/autoparse/commit/c710936d68b30840c9feea01f9d89038944b4ec9",
+        "github://google/autoparse/commit/3bdc7f3acb3259c57d09c81248838b2d1b61ed26",
+        "github://google/autoparse/commit/579f1844a9a007de22f198cce948c6bd118febdb",
+        "github://google/autoparse/commit/d6a208e24f7224550774321702cc7edbd78348bf",
+        "github://google/autoparse/commit/59c9cc3ee01884873507ca8baca6020c9ac94bcf"
+      ]
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "anvil-build",
+      "qualifiedName": "github://google/anvil-build",
+      "description": "A parallel build system and content pipeline",
+      "url": "https://github.com/google/anvil-build"
+    },
+    "customAttributes": {
+      "stars": 58,
+      "language": "Python",
+      "forks": 15,
+      "watchers": 58
+    },
+    "relationshipAttributes": {
+      "latestCommits": [
+        "github://google/anvil-build/commit/01f6f89426308904cc5eaf9f7ab64038f84ea191",
+        "github://google/anvil-build/commit/79efba107270bf279c4e87651509045439872de0",
+        "github://google/anvil-build/commit/2ebcd3b1aa6ba7b7400cc4c8ba7a58b3bf11d50f",
+        "github://google/anvil-build/commit/35e59a5155e69516d7122e831fd2df908b813e20",
+        "github://google/anvil-build/commit/c497da0b6b618c002285e61649e1d6252018a996"
+      ]
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "googletv-android-samples",
+      "qualifiedName": "github://google/googletv-android-samples",
+      "description": "Source for many GoogleTV Example applications.",
+      "url": "https://github.com/google/googletv-android-samples"
+    },
+    "customAttributes": {
+      "stars": 165,
+      "language": "Java",
+      "forks": 71,
+      "watchers": 165
+    },
+    "relationshipAttributes": {
+      "latestCommits": [
+        "github://google/googletv-android-samples/commit/08d393396b61e45d4a8cb6b45f0148b269a8b5ab",
+        "github://google/googletv-android-samples/commit/4f7883689bd43b4cd3e1543387dea13ca8107329",
+        "github://google/googletv-android-samples/commit/a59255cebc8f7e465bf98fb6f28a4a9caa3aab35",
+        "github://google/googletv-android-samples/commit/cc697eccbe27455c308234619098eb6c43d1c7e7",
+        "github://google/googletv-android-samples/commit/c69aea3a36053cd0e601dba0d1324eb39672b3e8"
+      ]
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "ChannelPlate",
+      "qualifiedName": "github://google/ChannelPlate",
+      "description": "JavaScript library for postMessage over MessageChannel",
+      "url": "https://github.com/google/ChannelPlate"
+    },
+    "customAttributes": {
+      "stars": 23,
+      "language": "JavaScript",
+      "forks": 18,
+      "watchers": 23
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "GL-Shader-Validator",
+      "qualifiedName": "github://google/GL-Shader-Validator",
+      "description": null,
+      "url": "https://github.com/google/GL-Shader-Validator"
+    },
+    "customAttributes": {
+      "stars": 40,
+      "language": "Python",
+      "forks": 18,
+      "watchers": 40
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "qpp",
+      "qualifiedName": "github://google/qpp",
+      "description": "Querypoint Debugging Prototype",
+      "url": "https://github.com/google/qpp"
+    },
+    "customAttributes": {
+      "stars": 43,
+      "language": "JavaScript",
+      "forks": 9,
+      "watchers": 43
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "CSP-Validator",
+      "qualifiedName": "github://google/CSP-Validator",
+      "description": "CSP-Validator",
+      "url": "https://github.com/google/CSP-Validator"
+    },
+    "customAttributes": {
+      "stars": 27,
+      "language": "Python",
+      "forks": 14,
+      "watchers": 27
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "embed-dart-vm",
+      "qualifiedName": "github://google/embed-dart-vm",
+      "description": null,
+      "url": "https://github.com/google/embed-dart-vm"
+    },
+    "customAttributes": {
+      "stars": 99,
+      "language": "C++",
+      "forks": 19,
+      "watchers": 99
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "module-server",
+      "qualifiedName": "github://google/module-server",
+      "description": "module-server",
+      "url": "https://github.com/google/module-server"
+    },
+    "customAttributes": {
+      "stars": 566,
+      "language": "JavaScript",
+      "forks": 44,
+      "watchers": 566
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "cxx-std-draft",
+      "qualifiedName": "github://google/cxx-std-draft",
+      "description": "C++ standards drafts",
+      "url": "https://github.com/google/cxx-std-draft"
+    },
+    "customAttributes": {
+      "stars": 53,
+      "language": "TeX",
+      "forks": 16,
+      "watchers": 53
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "filesystem-proposal",
+      "qualifiedName": "github://google/filesystem-proposal",
+      "description": "Boost Filesystem Library with modifications for the C++ standards committee proposal",
+      "url": "https://github.com/google/filesystem-proposal"
+    },
+    "customAttributes": {
+      "stars": 19,
+      "language": "C++",
+      "forks": 19,
+      "watchers": 19
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "libcxx",
+      "qualifiedName": "github://google/libcxx",
+      "description": "libc++; cloned from http://llvm.org/git/libcxx.git",
+      "url": "https://github.com/google/libcxx"
+    },
+    "customAttributes": {
+      "stars": 192,
+      "language": "C++",
+      "forks": 73,
+      "watchers": 192
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "tracing-framework",
+      "qualifiedName": "github://google/tracing-framework",
+      "description": "Web Tracing Framework libraries and extensions.",
+      "url": "https://github.com/google/tracing-framework"
+    },
+    "customAttributes": {
+      "stars": 2639,
+      "language": "JavaScript",
+      "forks": 197,
+      "watchers": 2639
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "namebench",
+      "qualifiedName": "github://google/namebench",
+      "description": "namebench",
+      "url": "https://github.com/google/namebench"
+    },
+    "customAttributes": {
+      "stars": 925,
+      "language": "Go",
+      "forks": 157,
+      "watchers": 925
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "devtoolsExtended",
+      "qualifiedName": "github://google/devtoolsExtended",
+      "description": "devtoolsExtended: Extended Chrome Devtools in a Chrome Extension",
+      "url": "https://github.com/google/devtoolsExtended"
+    },
+    "customAttributes": {
+      "stars": 74,
+      "language": "JavaScript",
+      "forks": 22,
+      "watchers": 74
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "sirius",
+      "qualifiedName": "github://google/sirius",
+      "description": "sirius",
+      "url": "https://github.com/google/sirius"
+    },
+    "customAttributes": {
+      "stars": 8,
+      "language": null,
+      "forks": 0,
+      "watchers": 8
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "testRunner",
+      "qualifiedName": "github://google/testRunner",
+      "description": "testRunner",
+      "url": "https://github.com/google/testRunner"
+    },
+    "customAttributes": {
+      "stars": 10,
+      "language": "JavaScript",
+      "forks": 9,
+      "watchers": 10
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "crx2app",
+      "qualifiedName": "github://google/crx2app",
+      "description": null,
+      "url": "https://github.com/google/crx2app"
+    },
+    "customAttributes": {
+      "stars": 22,
+      "language": "JavaScript",
+      "forks": 15,
+      "watchers": 22
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "episodes.dart",
+      "qualifiedName": "github://google/episodes.dart",
+      "description": "A framework for timing performance of web apps.",
+      "url": "https://github.com/google/episodes.dart"
+    },
+    "customAttributes": {
+      "stars": 14,
+      "language": "Dart",
+      "forks": 26,
+      "watchers": 14
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "cpp-netlib",
+      "qualifiedName": "github://google/cpp-netlib",
+      "description": "The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library.",
+      "url": "https://github.com/google/cpp-netlib"
+    },
+    "customAttributes": {
+      "stars": 344,
+      "language": "C++",
+      "forks": 60,
+      "watchers": 344
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "dagger",
+      "qualifiedName": "github://google/dagger",
+      "description": "A fast dependency injector for Android and Java.",
+      "url": "https://github.com/google/dagger"
+    },
+    "customAttributes": {
+      "stars": 17632,
+      "language": "Java",
+      "forks": 2043,
+      "watchers": 17632
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "ios-webkit-debug-proxy",
+      "qualifiedName": "github://google/ios-webkit-debug-proxy",
+      "description": "A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).",
+      "url": "https://github.com/google/ios-webkit-debug-proxy"
+    },
+    "customAttributes": {
+      "stars": 6095,
+      "language": "C",
+      "forks": 472,
+      "watchers": 6095
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "google.github.io",
+      "qualifiedName": "github://google/google.github.io",
+      "description": null,
+      "url": "https://github.com/google/google.github.io"
+    },
+    "customAttributes": {
+      "stars": 522,
+      "language": "HTML",
+      "forks": 65,
+      "watchers": 522
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "kratu",
+      "qualifiedName": "github://google/kratu",
+      "description": null,
+      "url": "https://github.com/google/kratu"
+    },
+    "customAttributes": {
+      "stars": 283,
+      "language": "JavaScript",
+      "forks": 33,
+      "watchers": 283
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "build-debian-cloud",
+      "qualifiedName": "github://google/build-debian-cloud",
+      "description": "Script to create Debian Squeeze & Wheezy Amazon Machine Images (AMIs) and Google Compute Engine images",
+      "url": "https://github.com/google/build-debian-cloud"
+    },
+    "customAttributes": {
+      "stars": 35,
+      "language": "Shell",
+      "forks": 22,
+      "watchers": 35
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "traceur-compiler",
+      "qualifiedName": "github://google/traceur-compiler",
+      "description": "Traceur is a JavaScript.next-to-JavaScript-of-today compiler",
+      "url": "https://github.com/google/traceur-compiler"
+    },
+    "customAttributes": {
+      "stars": 8163,
+      "language": "JavaScript",
+      "forks": 578,
+      "watchers": 8163
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "firmata.py",
+      "qualifiedName": "github://google/firmata.py",
+      "description": null,
+      "url": "https://github.com/google/firmata.py"
+    },
+    "customAttributes": {
+      "stars": 21,
+      "language": "Python",
+      "forks": 16,
+      "watchers": 21
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubRepo",
+    "attributes": {
+      "name": "vector_math.dart",
+      "qualifiedName": "github://google/vector_math.dart",
+      "description": "A vector math package for 2D and 3D applications",
+      "url": "https://github.com/google/vector_math.dart"
+    },
+    "customAttributes": {
+      "stars": 331,
+      "language": "Dart",
+      "forks": 85,
+      "watchers": 331
+    },
+    "relationshipAttributes": {
+      "latestCommits": []
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/truth/commit/e1349366f32a21431a667d901e838065073fcd33",
+      "sha": "e1349366f32a21431a667d901e838065073fcd33",
+      "message": "Stop requesting frames for Javadoc.\n\nFor both our releases and our snapshots, we've been using versions of Javadoc that ignore our request:\n\n- https://truth.dev/api\n- https://truth.dev/api/1.4.5/index.html\n\nRELNOTES=n/a\nPiperOrigin-RevId: 806438456",
+      "date": "2025-09-12T22:00:07Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/truth",
+      "author": "cpovirk"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/truth/commit/e25f2e2cc826b49e671c375b09c30496130e71da",
+      "sha": "e25f2e2cc826b49e671c375b09c30496130e71da",
+      "message": "Use `central-publishing-maven-plugin` for snapshot deployment, too.\n\nSee the second half of https://github.com/google/truth/pull/1586#issuecomment-3281893043.\n\nThis fixes snapshot deployment after my change from cl/805870501.\n\nAnd move most other configuration out of the `sonatype-oss-release` profile. See discussion in cl/805841232.\n\nRELNOTES=n/a\nPiperOrigin-RevId: 805973207",
+      "date": "2025-09-11T20:51:47Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/truth",
+      "author": "cpovirk"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/truth/commit/47d58a9257138867299863da544458d85ec19371",
+      "sha": "47d58a9257138867299863da544458d85ec19371",
+      "message": "Remove explicit configuration of https://central.sonatype.com/repository/maven-snapshots.\n\n@Marcono1234 notes [in a GSON PR](https://github.com/google/gson/pull/2902#discussion_r2338147995) that this appears to be the default. So let's not re-specify the default. (Compare cl/799337152.)\n\nIf this CL goes well, I'll mail a similar CL (cl/805841232) for our other projects.\n\nRELNOTES=n/a\nPiperOrigin-RevId: 805870501",
+      "date": "2025-09-11T16:31:44Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/truth",
+      "author": "cpovirk"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/truth/commit/24b5a310fd899b5554ded8287f33c826f5d7778b",
+      "sha": "24b5a310fd899b5554ded8287f33c826f5d7778b",
+      "message": "Fix TODO style.\n\nRELNOTES=n/a\nPiperOrigin-RevId: 803482692",
+      "date": "2025-09-05T16:00:52Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/truth",
+      "author": "cpovirk"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/truth/commit/7261f72093756a8abcc96882e49273b9b6a063be",
+      "sha": "7261f72093756a8abcc96882e49273b9b6a063be",
+      "message": "Make `ActualValueInference` see through casts and also recognize some of Kotlin's collection-factory methods as having names that are \"boring.\"\n\nRELNOTES=n/a\nPiperOrigin-RevId: 803004852",
+      "date": "2025-09-04T13:46:51Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/truth",
+      "author": "cpovirk"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/ruby-openid-apps-discovery/commit/4e8fbaad8903567c9ca2975adf98ee6657e7ece7",
+      "sha": "4e8fbaad8903567c9ca2975adf98ee6657e7ece7",
+      "message": "Merge pull request #3 from christhomson/fix-deprecation-warnings\n\nUse Rails.cache and Rails.logger",
+      "date": "2018-02-26T17:14:37Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/ruby-openid-apps-discovery",
+      "author": "sqrrrl"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/ruby-openid-apps-discovery/commit/72f172247adec624c6b1ee5ffc8e3006d5eb3c8d",
+      "sha": "72f172247adec624c6b1ee5ffc8e3006d5eb3c8d",
+      "message": "Use Rails.cache and Rails.logger.",
+      "date": "2014-02-21T01:14:40Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/ruby-openid-apps-discovery",
+      "author": "christhomson"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/ruby-openid-apps-discovery/commit/d2909a200affe2200dcb0d73ad41812cb5c33255",
+      "sha": "d2909a200affe2200dcb0d73ad41812cb5c33255",
+      "message": "Remove stale gem, add initial read me for github hosting",
+      "date": "2012-01-26T18:53:52Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/ruby-openid-apps-discovery",
+      "author": "sqrrrl"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/ruby-openid-apps-discovery/commit/48adecc7e5a6022f45affe2e9ccc0b7d820fd118",
+      "sha": "48adecc7e5a6022f45affe2e9ccc0b7d820fd118",
+      "message": "Remove stale TODO items",
+      "date": "2011-01-25T22:26:38Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/ruby-openid-apps-discovery",
+      "author": "sqrrrl"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/ruby-openid-apps-discovery/commit/d5452e0194a650290f9531fef654669a280d5b2c",
+      "sha": "d5452e0194a650290f9531fef654669a280d5b2c",
+      "message": "Fix OP identifier check to allow http:// prefix.  Also allow unsigned XRDS for use with gmail.com",
+      "date": "2010-05-14T18:49:25Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/ruby-openid-apps-discovery",
+      "author": "sqrrrl"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/autoparse/commit/c710936d68b30840c9feea01f9d89038944b4ec9",
+      "sha": "c710936d68b30840c9feea01f9d89038944b4ec9",
+      "message": "Updated version, CHANGELOG, and generated new gemspec.",
+      "date": "2013-03-26T04:09:27Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/autoparse",
+      "author": "sporkmonger"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/autoparse/commit/3bdc7f3acb3259c57d09c81248838b2d1b61ed26",
+      "sha": "3bdc7f3acb3259c57d09c81248838b2d1b61ed26",
+      "message": "Merge pull request #4 from sqrrrl/master\n\nAvoid redefining parent class was generating classes for properties",
+      "date": "2013-03-26T04:04:41Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/autoparse",
+      "author": "sporkmonger"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/autoparse/commit/579f1844a9a007de22f198cce948c6bd118febdb",
+      "sha": "579f1844a9a007de22f198cce948c6bd118febdb",
+      "message": "Merge from upstream",
+      "date": "2013-03-26T04:02:55Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/autoparse",
+      "author": "sqrrrl"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/autoparse/commit/d6a208e24f7224550774321702cc7edbd78348bf",
+      "sha": "d6a208e24f7224550774321702cc7edbd78348bf",
+      "message": "Don't register anonymous classes using the parent URI",
+      "date": "2013-03-26T03:19:21Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/autoparse",
+      "author": "sqrrrl"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/autoparse/commit/59c9cc3ee01884873507ca8baca6020c9ac94bcf",
+      "sha": "59c9cc3ee01884873507ca8baca6020c9ac94bcf",
+      "message": "Add test for schema redefinition bug with anonymous properties",
+      "date": "2013-03-26T03:18:17Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/autoparse",
+      "author": "sqrrrl"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/anvil-build/commit/01f6f89426308904cc5eaf9f7ab64038f84ea191",
+      "sha": "01f6f89426308904cc5eaf9f7ab64038f84ea191",
+      "message": "Update README.md",
+      "date": "2017-05-01T18:33:23Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/anvil-build",
+      "author": "benvanik"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/anvil-build/commit/79efba107270bf279c4e87651509045439872de0",
+      "sha": "79efba107270bf279c4e87651509045439872de0",
+      "message": "Merge pull request #13 from mpd/master\n\nAdd Twisted as a dependency.",
+      "date": "2015-05-07T01:57:14Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/anvil-build",
+      "author": "benvanik"
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/anvil-build/commit/2ebcd3b1aa6ba7b7400cc4c8ba7a58b3bf11d50f",
+      "sha": "2ebcd3b1aa6ba7b7400cc4c8ba7a58b3bf11d50f",
+      "message": "Merge branch 'master' of github.com:mpd/anvil-build",
+      "date": "2015-05-06T20:45:37Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/anvil-build",
+      "author": null
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/anvil-build/commit/35e59a5155e69516d7122e831fd2df908b813e20",
+      "sha": "35e59a5155e69516d7122e831fd2df908b813e20",
+      "message": "Merge branch 'master' of github.com:mpd/anvil-build",
+      "date": "2015-05-06T20:43:03Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/anvil-build",
+      "author": null
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/anvil-build/commit/c497da0b6b618c002285e61649e1d6252018a996",
+      "sha": "c497da0b6b618c002285e61649e1d6252018a996",
+      "message": "Merge branch 'master' of github.com:mpd/anvil-build",
+      "date": "2015-05-06T20:43:03Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/anvil-build",
+      "author": null
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/googletv-android-samples/commit/08d393396b61e45d4a8cb6b45f0148b269a8b5ab",
+      "sha": "08d393396b61e45d4a8cb6b45f0148b269a8b5ab",
+      "message": "reducing png sizes",
+      "date": "2012-07-16T18:10:19Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/googletv-android-samples",
+      "author": null
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/googletv-android-samples/commit/4f7883689bd43b4cd3e1543387dea13ca8107329",
+      "sha": "4f7883689bd43b4cd3e1543387dea13ca8107329",
+      "message": "removing debug logging",
+      "date": "2012-07-12T20:58:11Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/googletv-android-samples",
+      "author": null
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/googletv-android-samples/commit/a59255cebc8f7e465bf98fb6f28a4a9caa3aab35",
+      "sha": "a59255cebc8f7e465bf98fb6f28a4a9caa3aab35",
+      "message": "Updating AnymoteClientService to support the usecase of multiple\nActivitys within a app using it without the need to re-pair.",
+      "date": "2012-07-12T20:54:31Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/googletv-android-samples",
+      "author": null
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/googletv-android-samples/commit/cc697eccbe27455c308234619098eb6c43d1c7e7",
+      "sha": "cc697eccbe27455c308234619098eb6c43d1c7e7",
+      "message": "fixing bugs",
+      "date": "2012-06-27T10:03:37Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/googletv-android-samples",
+      "author": null
+    }
+  },
+  {
+    "typeName": "GitHubCommit",
+    "attributes": {
+      "qualifiedName": "github://google/googletv-android-samples/commit/c69aea3a36053cd0e601dba0d1324eb39672b3e8",
+      "sha": "c69aea3a36053cd0e601dba0d1324eb39672b3e8",
+      "message": "Fixing bugs",
+      "date": "2012-06-27T01:47:18Z"
+    },
+    "relationshipAttributes": {
+      "repo": "github://google/googletv-android-samples",
+      "author": null
+    }
+  }
+]
