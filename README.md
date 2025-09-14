@@ -38,8 +38,8 @@ This application demonstrates the use of the Atlan Apps Framework and Temporal.i
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-link>
-    cd <repository-name>
+    git clone https://github.com/JeetJani-11/project-alpha
+    cd project-alpha
     ```
 
 2.  **Install dependencies:**
